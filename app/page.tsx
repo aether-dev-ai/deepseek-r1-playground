@@ -219,7 +219,7 @@ export default function Home() {
       <footer className="mt-20 text-center text-sm text-gray-500 dark:text-gray-400">
         <p>
           Powered by <strong>DeepSeek R1</strong> · 
-          <a href="https://github.com" className="ml-2 hover:text-blue-500 transition-colors">
+          <a href="https://github.com/aether-dev-ai/deepseek-r1-playground" className="ml-2 hover:text-blue-500 transition-colors">
             View on GitHub
           </a>
         </p>

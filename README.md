@@ -39,7 +39,9 @@ npm start
 
 ## 📦 部署到 Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/deepseek-r1-playground)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/aether-dev-ai/deepseek-r1-playground)
+
+**🚀 Live Demo**: [https://deepseek-r1-playground.vercel.app](https://deepseek-r1-playground.vercel.app)
 
 1. 点击上方按钮
 2. 连接你的 GitHub 仓库
